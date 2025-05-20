@@ -1,0 +1,7 @@
+Launching lib\main.dart on SM A045F in debug mode...
+Running Gradle task 'assembleDebug'...                           2,512ms
+√ Built build\app\outputs\flutter-apk\app-debug.apk
+Installing build\app\outputs\flutter-apk\app-debug.apk...           6.1s
+I/flutter (15526): [INFO:flutter/shell/platform/android/android_context_vk_impeller.cc(64)] Known bad Vulkan driver encountered, falling back to OpenGLES.
+I/flutter (15526): [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(94)] Using the Impeller rendering backend (OpenGLES).
+D/FlutterGeolocator(15526): Attaching Geolocator to activity
